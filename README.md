@@ -1,7 +1,7 @@
 # api-specs
 Describes the API interface for AppFeedback for your own implementations
 
-Register for an account here: https://my.appfeedback.io/sign-up
+Register for an account here: https://www.appfeedback.io/
 
 We currently have two POST APIs available, Simple & Multipart
 
