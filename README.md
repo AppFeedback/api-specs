@@ -1,6 +1,8 @@
 # api-specs
 Describes the API interface for AppFeedback for your own implementations
 
+Register for an account here: https://my.appfeedback.io/sign-up
+
 We currently have two POST APIs available, Simple & Multipart
 
 Multipart is only required if you want to upload logs/images/binary files to AppFeedback, otherwise the Simple API is the best to get started.
